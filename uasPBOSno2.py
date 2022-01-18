@@ -1,3 +1,6 @@
+print ("Jawaban No 2")
+print("MENAMBAHKAN DATA MAHASISWA")
+print("======================================================================")
 import os
 os.system("cls")
 
